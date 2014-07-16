@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cvt>
+    <cv index="0" value="-366"/>
+    <cv index="1" value="0"/>
+    <cv index="2" value="1180"/>
+    <cv index="3" value="1348"/>
+    <cv index="4" value="1602"/>
+    <cv index="5" value="1641"/>
+    <cv index="6" value="192"/>
+    <cv index="7" value="20"/>
+    <cv index="8" value="174"/>
+    <cv index="9" value="202"/>
+    <cv index="10" value="213"/>
+    <cv index="11" value="222"/>
+    <cv index="12" value="287"/>
+    <cv index="13" value="266"/>
+    <cv index="14" value="271"/>
+    <cv index="15" value="275"/>
+    <cv index="16" value="287"/>
+    <cv index="17" value="186"/>
+    <cv index="18" value="207"/>
+    <cv index="19" value="189"/>
+    <cv index="20" value="198"/>
+    <cv index="21" value="216"/>
+    <cv index="22" value="259"/>
+    <cv index="23" value="200"/>
+    <cv index="24" value="220"/>
+    <cv index="25" value="254"/>
+    <cv index="26" value="210"/>
+    <cv index="27" value="240"/>
+    <cv index="28" value="228"/>
+    <cv index="29" value="238"/>
+    <cv index="30" value="235"/>
+    <cv index="31" value="256"/>
+    <cv index="32" value="250"/>
+    <cv index="33" value="252"/>
+    <cv index="34" value="262"/>
+    <cv index="35" value="248"/>
+    <cv index="36" value="183"/>
+    <cv index="37" value="196"/>
+    <cv index="38" value="170"/>
+    <cv index="39" value="226"/>
+    <cv index="40" value="231"/>
+    <cv index="41" value="141"/>
+    <cv index="42" value="138"/>
+    <cv index="43" value="134"/>
+    <cv index="44" value="118"/>
+    <cv index="45" value="177"/>
+    <cv index="46" value="143"/>
+    <cv index="47" value="245"/>
+    <cv index="48" value="242"/>
+    <cv index="49" value="155"/>
+    <cv index="50" value="159"/>
+  </cvt>
+
+</ttFont>
