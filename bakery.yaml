@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [Nobile-Regular.ttf.ttx, Nobile-MediumItalic.ttf.ttx, Nobile-Medium.ttf.ttx,
+  Nobile-Italic.ttf.ttx, Nobile-BoldItalic.ttf.ttx, Nobile-Bold.ttf.ttx, src/Nobile_Bold_Italic.sfd,
+  src/Nobile_Bold.sfd, src/Nobile.sfd, src/Nobile-italic.sfd, src/Nobile-MediumItalic.sfd,
+  src/Nobile-Medium.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
